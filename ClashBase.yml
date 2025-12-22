@@ -5,6 +5,13 @@ ipv6: false
 mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
+geodata-mode: true
+geodata-loader: standard
+
+geosite-url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.dat
+geoip-url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.dat
+asn-url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/GeoLite2-ASN.mmdb
+
 
 dns:
   enable: true
