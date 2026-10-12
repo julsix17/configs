@@ -15,7 +15,6 @@ const newRules = [
   "DOMAIN-KEYWORD,anthropic,🤖 AI 域名",
   "DOMAIN-KEYWORD,claude,🤖 AI 域名",
   "DOMAIN-SUFFIX,clau.de,🤖 AI 域名",
-  "DOMAIN-SUFFIX,ddns.cgfw.de,DIRECT",
   "DOMAIN-SUFFIX,linkedin.com,DIRECT",
   "DOMAIN-SUFFIX,acc.ai.cgfw.de,DIRECT",
   "DOMAIN-SUFFIX,nvidiagrid.net,DIRECT",
