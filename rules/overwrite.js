@@ -23,6 +23,7 @@ const newRules = [
   "DOMAIN-SUFFIX,oyunfor.com,DIRECT",
   "DOMAIN-SUFFIX,paytr.com,DIRECT",
   "DOMAIN-SUFFIX,isbank.com.tr,DIRECT",
+  "DOMAIN-SUFFIX,workspace.org,DIRECT",
   // "DOMAIN-SUFFIX,ibllc.com,🎞️ 国际媒体",
   // "DOMAIN-SUFFIX,interactivebrokers.com,🎞️ 国际媒体",
   // "DOMAIN-SUFFIX,interactivebrokers.com.hk,🎞️ 国际媒体",
